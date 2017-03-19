@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Listveiw</string>
+    <string-array name="courses">
+        <item>Android App Development</item>
+        <item>Core Java</item>
+        <item>Learn Python</item>
+        <item>PHP and MYSQL</item>
+        <item>Cloud Computing</item>
+        <item>Worklight</item>
+        <item>Web Development</item>
+        <item>Embedded System</item>
+        <item>.Net</item>
+        <item>Cyber Security</item>
+
+    </string-array>
+    <string-array name="paragrah">
+        <item>Welcome to App development</item>
+        <item>Welcome to Core Java</item>
+        <item>Welcome to Learn Python</item>
+        <item>Welcome to Php and MYSQL</item>
+        <item>Welcome to Cloud Computing</item>
+        <item>Welcome to Worklight</item>
+        <item>Welcome to Web Development</item>
+        <item>Welcome to Eembeded System</item>
+        <item>Welcome to NET</item>
+        <item>Welcome to Cyber Security</item>
+    </string-array>
+</resources>
